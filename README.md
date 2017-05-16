@@ -1,1 +1,1 @@
-# live-cms-core
+# liveCMS Abstract Core
